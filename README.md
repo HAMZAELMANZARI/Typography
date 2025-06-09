@@ -1,10 +1,10 @@
 # Nutrition Facts Labels
 
 ## Basic Nutrition Label (responsive.png)
-![Basic Nutrition Facts Label](responsive.png)
+![Basic Nutrition Facts Label](/images/responsive.png)
 
 ## Complete Nutrition Label with Design (responsive-design.png)
-![Enhanced Nutrition Facts Label](responsive-design.png)
+![Enhanced Nutrition Facts Label](/images/responsive-design.png)
 
 Here's a clear breakdown of the nutrition facts from the image you provided:
 Nutrition Facts
